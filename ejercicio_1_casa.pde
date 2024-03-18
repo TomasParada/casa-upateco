@@ -52,10 +52,4 @@ public void draw(){
   fill(#D7D8CD);
   quad(350,240,400,240,400,280,350,280);
   
-  //circle(mouseX,mouseY,radio);
-  //ellipse(mouseX,mouseY,random(0,100),radio);
-  
-  //punto con color, grosor y posicion
-  //stroke(255,0,0);
-  //strokeWeight(10);
 }
